@@ -6,3 +6,5 @@ Address:Vinayaka Nagar Colony,meerpet,sarrornagar,hyderabad
 Skills:
 a)Compassionate at learning new things
 b)I am good at c,data structures,c++,html,css,bootstrap,javascript and a part in python as well
+Education:
+1)I have completed my schooling at naagarjuna group of schools  with gpa 9.8 and inter at sri chaitanya group of institutions with 98%.
