@@ -5,3 +5,4 @@ Date Of Birth:16/02/2005
 Address:Vinayaka Nagar Colony,meerpet,sarrornagar,hyderabad
 Skills:
 a)Compassionate at learning new things
+b)I am good at c,c++,html,css,bootstrap,javascript and a part in python as well
