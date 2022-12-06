@@ -55,7 +55,7 @@ background-position: center;
   }
   
   .heading a:hover {
-    background-color: #ddd;
+    background-color: rgb(170, 162, 162);
     color: rgb(251, 247, 247);
   }
   
